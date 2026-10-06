@@ -2,7 +2,6 @@
 
 I struggle with productivity. *A lot*. It's been especially bad since I got a second monitor, and I want an application developed to help me with that.
 
-
 # What should it do?
 
 ## **Big: Computer and Android application that communicate with each other automatically. I should not have to do anything for them to communicate but obviously I don't want to set up a real server for just this little application!!!**
@@ -23,22 +22,17 @@ I struggle with productivity. *A lot*. It's been especially bad since I got a se
 * I should be able to set up how much free time I want before I need to leave to go do something e.g go to work or go to class.
 * Tasks should be able to be set to do over a vague period of time, e.g this weekend or this week, not just strictly a daily task.
 
-
-
 # What does it need?
 
 * Custom notification API. Windows notifications are too finnicky and get broken by too many things, such as do not disturb while I'm playing games. You know how antiviruses have custom notifications? Something like that.
 * Some way to communicate between phone and computer without a cloud server and without a physical cable plugin. I WILL forget to do it if I need to physically plug in a cable.
 * It should not use up all of my system resources. I may be running on a 9950X3D and a 5090, but that does not mean it should be utilizing every ounce of system resources, so it should be light. No AI integration, no electron, hell, it shouldn't even use HTML in the first place.
-* A way to lock me out of using my second monitor, though don't hardcode it for second monitor only in the case that I get more than just two monitors.
+* A way to lock me out of using my second monitor, though don't hardcode it for second monitor only in the case that I get more than just two monitors. (like how lockdown browser works kind of)
 * A way to lock me out of using my phone (with a way to bypass that's painful enough I won't do it subconciously)
-
 
 # What should it not have?
 
 Passwords. No passwords. No pins. A lot of apps use something like this as the bypass method, that is not what I want at all.
-
-
 
 # What should it be programmed in?
 
