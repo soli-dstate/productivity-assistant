@@ -37,3 +37,20 @@ Passwords. No passwords. No pins. A lot of apps use something like this as the b
 # What should it be programmed in?
 
 I don't know. Nor do I really care. I have the tools to compile C++, I have Python installed, I have node.js, I think I might even have JDK. It doesn't really matter what it's programmed in. I also have Android Studio Rabbit 1 2026.2.1 installed for the Android side.
+
+
+# Checklist
+
+* [ ] Create basic Windows application
+* [ ] Create basic Android application
+* [ ] Create notification system
+* [ ] Create communication system between phone and PC
+* [ ] Create lockout system (for monitor)
+* [ ] Create lockout system (for phone)
+* [ ] Set up sleep reminder system
+* [ ] Set up Vencord plugin
+* [ ] Add Discord integration
+* [ ] Add YouTube Music integration
+* [ ] Add scheduling system
+
+--Add any other items to the checklist if deemed necessary--
